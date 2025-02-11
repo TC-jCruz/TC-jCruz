@@ -1,6 +1,6 @@
 ## Personal info
 Hi, I’m José Cruz @TC-jCruz and I'm a Software Engineer,  
-my main languages nowadays are Elixir and Erlang(currently learning).
+my main languages nowadays are Elixir and Erlang.
 
 I love...
 * listening to music 🎶
